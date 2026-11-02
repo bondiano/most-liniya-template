@@ -1,0 +1,3 @@
+# Same @effect/platform-node-shared as effect and the school repository.
+overrides:
+  '@effect/platform-node-shared': 4.1.0
